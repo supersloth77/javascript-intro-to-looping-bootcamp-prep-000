@@ -1,0 +1,5 @@
+array = [];
+
+function forLoop(array) {
+  
+}
