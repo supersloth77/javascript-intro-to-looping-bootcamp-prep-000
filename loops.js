@@ -1,5 +1,0 @@
-array = [];
-
-function forLoop(array) {
-  
-}
